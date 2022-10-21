@@ -14,6 +14,8 @@ This is another paragraph, that should be saved.
 
 * with two items
 
+* item 3
+
 ## Etiquette
 
 This project is open source, and as such, the maintainers give their free time to build and maintain the source code held within. They make the code freely available in the hope that it will be of use to other developers. It would be extremely unfair for them to suffer abuse or anger for their hard work.
