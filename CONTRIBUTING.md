@@ -1,6 +1,6 @@
 # Contributing
 
-Contributions are **<u>welcome</u>** and will be fully **credited**.
+Contributions are **welcome** and will be fully **credited**.
 
 Please read and understand the [contribution guide](https://www.tiptap.dev/overview/contributing/) before creating an issue or pull request.
 
