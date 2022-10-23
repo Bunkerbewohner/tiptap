@@ -6,7 +6,7 @@ Please read and understand the [contribution guide](https://www.tiptap.dev/overv
 
 ## New Heading Inserted here
 
-How about, we enter some text here.
+**How** *about*, <u>we</u> enter some text here.
 
 This is <u>another</u> **paragraph**, that ~should~ be saved.
 
