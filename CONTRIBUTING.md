@@ -18,7 +18,7 @@ This is <u>another</u> **paragraph**, that ~should~ be saved.
 
 * item 4
 
-  * And another one
+  * And **another** one
 
   * Nested list.
 
