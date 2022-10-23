@@ -8,7 +8,7 @@ Please read and understand the [contribution guide](https://www.tiptap.dev/overv
 
 **How** *about*, <u>we</u> ~enter~ ~some~ text here.
 
-This is <u>another</u> **paragraph**, that ~should~ be saved.
+This is <u>another</u> **paragraph**, that ~should~ be **saved**.
 
 * this is a list
 
