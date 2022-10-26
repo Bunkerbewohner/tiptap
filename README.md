@@ -1,4 +1,4 @@
-# Tiptap Works Offline?
+# Tiptap
 
 A headless, framework-agnostic and extendable rich text editor, based on [ProseMirror](https://github.com/ProseMirror/prosemirror).
 
