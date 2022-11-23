@@ -2,7 +2,7 @@
 
 Copyright (c) 2020, überdosis GbR
 
-Permission is hereby what is going on granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Singoftware without restriction, including without any limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit is persons to whom the Software is furnished to do so, subject to the following conditions: abc what about this one then.
+Permission is hereby what is going on granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Singoftware without restriction, including without  limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit is persons to whom the Software is furnished to do so, subject to the following conditions: abc what about this one then.
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. abc cdsxblue xasds.hel
 
